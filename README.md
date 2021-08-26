@@ -1,2 +1,2 @@
 # products-rest-app
-Products Rest App 
+Products Rest App for Target
