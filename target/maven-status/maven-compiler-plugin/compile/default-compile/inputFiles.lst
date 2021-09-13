@@ -1,1 +1,8 @@
-/Users/girishkatta/Docs/products-rest-app/src/main/java/com/target/spring/products/ProductsSpringBootApplication.java
+/Users/girishkatta/Docs/my-retail-products-rest-app/src/main/java/com/target/spring/products/repository/RetailProductsRepository.java
+/Users/girishkatta/Docs/my-retail-products-rest-app/src/main/java/com/target/spring/products/ProductsSpringBootApplication.java
+/Users/girishkatta/Docs/my-retail-products-rest-app/src/main/java/com/target/spring/products/utils/RetailProductUtils.java
+/Users/girishkatta/Docs/my-retail-products-rest-app/src/main/java/com/target/spring/products/resources/CurrencyCodes.java
+/Users/girishkatta/Docs/my-retail-products-rest-app/src/main/java/com/target/spring/products/Test.java
+/Users/girishkatta/Docs/my-retail-products-rest-app/src/main/java/com/target/spring/products/controller/RetailProductsController.java
+/Users/girishkatta/Docs/my-retail-products-rest-app/src/main/java/com/target/spring/products/model/ProductPrice.java
+/Users/girishkatta/Docs/my-retail-products-rest-app/src/main/java/com/target/spring/products/model/Product.java
