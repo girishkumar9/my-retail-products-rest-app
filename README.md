@@ -26,3 +26,10 @@ spring.data.mongodb.port=27017
 The above properties can be updated to update database name. 
 
 POST Request :- http://localhost:8080/api/v1/products
+![POST Request](/images/post-request.png)
+
+PUT Request :- http://localhost:8080/api/v1/products/13456789345
+![PUT Request](/images/put-request.png)
+
+GET Request :- http://localhost:8080/api/v1/products/13456789345
+![GET Request](/images/get-request.png)
